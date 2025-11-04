@@ -54,8 +54,8 @@ pip install tk
 python daily_catalyst.py
 (or run the notebook if using Jupyter)
 
+
 🖋️ Author
 
 👩‍💻 Dikshitha Anand
-Created with ❤️ using Python and imagination.
 "Be the catalyst that transforms your daily chaos into creative momentum."
