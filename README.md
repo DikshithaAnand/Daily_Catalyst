@@ -43,3 +43,19 @@ The application combines task management with subtle animations, motivational qu
 
 git clone https://github.com/DikshithaAnand/Daily_Catalyst.git
 cd Daily_Catalyst
+
+2️⃣ Install dependencies (if any)
+
+Tkinter and SQLite come preinstalled with Python, but ensure you have:
+
+pip install tk
+
+3️⃣ Run the application
+python daily_catalyst.py
+(or run the notebook if using Jupyter)
+
+🖋️ Author
+
+👩‍💻 Dikshitha Anand
+Created with ❤️ using Python and imagination.
+"Be the catalyst that transforms your daily chaos into creative momentum."
