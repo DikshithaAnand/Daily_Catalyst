@@ -1,4 +1,4 @@
-# 🌟 Daily Catalyst
+## 🌟 Daily Catalyst
 
 Daily Catalyst is a beautifully designed desktop productivity app built with Python, Tkinter, and SQLite.  
 It helps users organize daily tasks with motivation, reminders, and an animated, aesthetic interface that makes productivity feel inspiring — not stressful.
@@ -53,6 +53,19 @@ pip install tk
 3️⃣ Run the application
 python daily_catalyst.py
 (or run the notebook if using Jupyter)
+
+## Project UI Preview
+
+Below are glimpses of the Daily Catalyst interface and its progress tracking visuals:
+
+Main Interface:
+![Main UI 1](images/ui-1.png)
+![Main UI 2](images/ui-2.png)
+![Main UI 3](images/ui-3.png)
+
+Progress Tracker:
+![Progress 1](images/progress-1.png)
+![Progress 2](images/progress-2.png)
 
 
 🖋️ Author
