@@ -1,5 +1,3 @@
----
-
 # 🌟 **Daily Catalyst**
 
 **Daily Catalyst** is a beautifully designed desktop productivity app built with **Python, Tkinter, and SQLite**.
