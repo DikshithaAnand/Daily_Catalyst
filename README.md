@@ -15,13 +15,21 @@ It merges practical task management with calming visuals, motivational quotes, a
 ## ⚙️ **Key Features**
 
 ✨ **Smart Task Management** – Add, edit, delete, and complete tasks with ease
+
 🗓️ **Integrated Calendar** – View due dates and plan ahead visually
+
 💾 **Persistent Storage** – Tasks stored securely using SQLite
+
 🌌 **Animated Aesthetic Interface** – Dynamic starfield and theme transitions for focus
+
 💬 **Motivational Quotes** – Daily inspiration built into your workspace
+
 🔍 **Search & Filter** – Quickly locate tasks by name or status
+
 ⏰ **Reminders & Alerts** – Get notified of upcoming deadlines
+
 🌙 **Dark Mode Design** – Sleek, eye-comforting visuals for long sessions
+
 ⚡ **Lightweight & Offline** – Fully functional without internet access
 
 ---
