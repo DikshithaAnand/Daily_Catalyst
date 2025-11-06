@@ -24,10 +24,6 @@ It merges practical task management with calming visuals, motivational quotes, a
 
 💬 **Motivational Quotes** – Daily inspiration built into your workspace
 
-🔍 **Search & Filter** – Quickly locate tasks by name or status
-
-⏰ **Reminders & Alerts** – Get notified of upcoming deadlines
-
 🌙 **Dark Mode Design** – Sleek, eye-comforting visuals for long sessions
 
 ⚡ **Lightweight & Offline** – Fully functional without internet access
