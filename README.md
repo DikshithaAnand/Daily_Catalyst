@@ -89,4 +89,4 @@ Or open the notebook if running in Jupyter.
 
 > “Be the catalyst that transforms your daily chaos into creative momentum.”
 > "Small change -> Huge Difference
-
+> "Lets Go."
