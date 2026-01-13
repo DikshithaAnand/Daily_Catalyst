@@ -88,6 +88,7 @@ Or open the notebook if running in Jupyter.
 👩‍💻 **Dikshitha Anand**
 
 > “Be the catalyst that transforms your daily chaos into creative momentum.”
+
 > "Small change -> Huge Difference
 > "Lets Go."
 > "If not now, then when?"
