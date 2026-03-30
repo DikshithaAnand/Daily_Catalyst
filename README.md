@@ -1,5 +1,6 @@
 # 🌟 **Daily Catalyst**
 
+
 **Daily Catalyst** is a beautifully designed desktop productivity app built with **Python, Tkinter, and SQLite**.
 It helps you organize daily tasks, stay motivated, and visualize progress — all within an aesthetic, animated interface that makes productivity feel inspiring, not stressful.
 
@@ -94,3 +95,7 @@ Or open the notebook if running in Jupyter.
 > "Lets Go."
 
 > "If not now, then when?"
+
+## First Project
+
+> First Project is always special.
